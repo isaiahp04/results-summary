@@ -11,12 +11,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution URL](https://your-solution-url.com)
+- Solution URL: [My Solution URL](https://www.frontendmentor.io/solutions/results-summary-component-D7i00j1bu1)
 - Live Site URL: [My Live Site URL](https://isaiahp04.github.io/results-summary)
 
 ## My process
